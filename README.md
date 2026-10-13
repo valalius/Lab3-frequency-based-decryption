@@ -1,1 +1,1 @@
-# Lab3-frequency-based-decryption
+Захист даних Лабораторна робота 2 Frequency-Based Decryption
