@@ -1,1 +1,1 @@
-Захист даних Лабораторна робота 2 Frequency-Based Decryption
+Захист даних Лабораторна робота 3 Frequency-Based Decryption
